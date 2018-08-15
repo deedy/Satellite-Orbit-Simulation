@@ -27,5 +27,5 @@ Simulates a satellite's Low Earth Orbit trajectory and additionally outputs it's
 % 
 % At the end, the altitude ranges are displayed, as well as the orbit type
 % - LEO or MEO
-% The simulation only takes into account the the influence of the Earth
+% The simulation only takes into account the influence of the Earth
 %CODED BY DEBARGHYA DAS
